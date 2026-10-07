@@ -1,0 +1,74 @@
+{
+  "solutions": [
+    {
+      "departureTime": "2025-12-25T15:30:00.000+01:00",
+      "arrivalTime": "2025-12-25T17:55:00.000+01:00",
+      "duration": "2h 25min",
+      "price": 45.0,
+      "number": "36"
+    },
+    {
+      "departureTime": "2025-12-25T16:30:00.000+01:00",
+      "arrivalTime": "2025-12-25T18:55:00.000+01:00",
+      "duration": "2h 25min",
+      "price": 45.0,
+      "number": "46"
+    },
+    {
+      "departureTime": "2025-12-26T05:51:00.000+01:00",
+      "arrivalTime": "2025-12-26T08:12:00.000+01:00",
+      "duration": "2h 21min",
+      "price": 49.0,
+      "number": "9700"
+    },
+    {
+      "departureTime": "2025-12-25T07:00:00.000+01:00",
+      "arrivalTime": "2025-12-25T09:15:00.000+01:00",
+      "duration": "2h 15min",
+      "price": 52.0,
+      "number": "9706"
+    },
+    {
+      "departureTime": "2025-12-25T07:49:00.000+01:00",
+      "arrivalTime": "2025-12-25T09:55:00.000+01:00",
+      "duration": "2h 06min",
+      "price": 52.0,
+      "number": "9712"
+    },
+    {
+      "departureTime": "2025-12-25T08:00:00.000+01:00",
+      "arrivalTime": "2025-12-25T10:15:00.000+01:00",
+      "duration": "2h 15min",
+      "price": 52.0,
+      "number": "9713"
+    },
+    {
+      "departureTime": "2025-12-25T08:30:00.000+01:00",
+      "arrivalTime": "2025-12-25T10:47:00.000+01:00",
+      "duration": "2h 17min",
+      "price": 52.0,
+      "number": "9716"
+    },
+    {
+      "departureTime": "2025-12-25T09:00:00.000+01:00",
+      "arrivalTime": "2025-12-25T11:15:00.000+01:00",
+      "duration": "2h 15min",
+      "price": 52.0,
+      "number": "9718"
+    },
+    {
+      "departureTime": "2025-12-25T11:30:00.000+01:00",
+      "arrivalTime": "2025-12-25T13:45:00.000+01:00",
+      "duration": "2h 15min",
+      "price": 52.0,
+      "number": "9726"
+    },
+    {
+      "departureTime": "2025-12-25T12:00:00.000+01:00",
+      "arrivalTime": "2025-12-25T14:15:00.000+01:00",
+      "duration": "2h 15min",
+      "price": 52.0,
+      "number": "9728"
+    }
+  ]
+}
